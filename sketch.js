@@ -43,7 +43,7 @@ const second_cs = [
 ];
   
 const minute_c = 'rgb(28, 166, 143)';
-const hour_c = 'rgb(42,72,88)';
+const hour_c = 'rgb(42,102,118)';
 
 function setup() {
   createCanvas(760, 760);
